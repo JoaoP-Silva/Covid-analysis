@@ -1,0 +1,193 @@
+Country_Code;Country_Name;Population;Type;Subtype
+ALB;Albania;2878420;Democracy;1. Parliamentary Democracy
+AND;Andorra;77240;Democracy;1. Parliamentary Democracy
+ATG;Antigua and Barbuda;97764;Democracy;1. Parliamentary Democracy
+AUS;Australia;25439164;Democracy;1. Parliamentary Democracy
+BHS;Bahamas;392477;Democracy;1. Parliamentary Democracy
+BRB;Barbados;287305;Democracy;1. Parliamentary Democracy
+BEL;Belgium;11579477;Democracy;1. Parliamentary Democracy
+BLZ;Belize;396120;Democracy;1. Parliamentary Democracy
+BTN;Bhutan;769867;Democracy;1. Parliamentary Democracy
+CAN;Canada;37674770;Democracy;1. Parliamentary Democracy
+CZE;Czech Republic (Czechia);10705012;Democracy;1. Parliamentary Democracy
+DNK;Denmark;5788108;Democracy;1. Parliamentary Democracy
+DMA;Dominica;71950;Democracy;1. Parliamentary Democracy
+EST;Estonia;1326357;Democracy;1. Parliamentary Democracy
+DEU;Germany;83730223;Democracy;1. Parliamentary Democracy
+GRC;Greece;10433037;Democracy;1. Parliamentary Democracy
+GRD;Grenada;112418;Democracy;1. Parliamentary Democracy
+HUN;Hungary;9665192;Democracy;1. Parliamentary Democracy
+IND;India;1377233523;Democracy;1. Parliamentary Democracy
+ISR;Israel;8627444;Democracy;1. Parliamentary Democracy
+ITA;Italy;60479424;Democracy;1. Parliamentary Democracy
+JAM;Jamaica;2958567;Democracy;1. Parliamentary Democracy
+JPN;Japan;126552765;Democracy;1. Parliamentary Democracy
+KIR;Kiribati;119069;Democracy;1. Parliamentary Democracy
+LVA;Latvia;1890218;Democracy;1. Parliamentary Democracy
+LIE;Liechtenstein;38106;Democracy;1. Parliamentary Democracy
+LUX;Luxembourg;623861;Democracy;1. Parliamentary Democracy
+MLT;Malta;441308;Democracy;1. Parliamentary Democracy
+MHL;Marshall Islands;59109;Democracy;1. Parliamentary Democracy
+MUS;Mauritius;1271347;Democracy;1. Parliamentary Democracy
+MDA;Moldova;4035814;Democracy;1. Parliamentary Democracy
+NRU;Nauru;10810;Democracy;1. Parliamentary Democracy
+NPL;Nepal;29027347;Democracy;1. Parliamentary Democracy
+NLD;Netherlands;17127290;Democracy;1. Parliamentary Democracy
+NZL;New Zealand;4814272;Democracy;1. Parliamentary Democracy
+NOR;Norway;5412632;Democracy;1. Parliamentary Democracy
+PAK;Pakistan;219992900;Democracy;1. Parliamentary Democracy
+PNG;Papua New Guinea;8911530;Democracy;1. Parliamentary Democracy
+KNA;Saint Kitts and Nevis;53123;Democracy;1. Parliamentary Democracy
+LCA;Saint Lucia;183458;Democracy;1. Parliamentary Democracy
+SMR;San Marino;33917;Democracy;1. Parliamentary Democracy
+SVN;Slovenia;2078881;Democracy;1. Parliamentary Democracy
+SLB;Solomon Islands;683301;Democracy;1. Parliamentary Democracy
+ESP;Spain;46751175;Democracy;1. Parliamentary Democracy
+VCT;St. Vincent & Grenadines;110869;Democracy;1. Parliamentary Democracy
+SWE;Sweden;10086531;Democracy;1. Parliamentary Democracy
+THA;Thailand;69764925;Democracy;1. Parliamentary Democracy
+TTO;Trinidad and Tobago;1398579;Democracy;1. Parliamentary Democracy
+TUV;Turks and Caicos;38609;Democracy;1. Parliamentary Democracy
+GBR;United Kingdom;67814098;Democracy;1. Parliamentary Democracy
+VUT;Vanuatu;305623;Democracy;1. Parliamentary Democracy
+ARG;Argentina;45111229;Democracy;2. Presidential Democracy
+BEN;Benin;12055347;Democracy;2. Presidential Democracy
+BOL;Bolivia;11640159;Democracy;2. Presidential Democracy
+BRA;Brazil;212253150;Democracy;2. Presidential Democracy
+BDI;Burundi;11814346;Democracy;2. Presidential Democracy
+CHL;Chile;19082804;Democracy;2. Presidential Democracy
+COL;Colombia;50771878;Democracy;2. Presidential Democracy
+COM;Comoros;865696;Democracy;2. Presidential Democracy
+CRI;Costa Rica;5084636;Democracy;2. Presidential Democracy
+CYP;Cyprus;1205577;Democracy;2. Presidential Democracy
+DOM;Dominican Republic;10825682;Democracy;2. Presidential Democracy
+ECU;Ecuador;17587526;Democracy;2. Presidential Democracy
+SLV;El Salvador;6479609;Democracy;2. Presidential Democracy
+GHA;Ghana;30936375;Democracy;2. Presidential Democracy
+GTM;Guatemala;17846248;Democracy;2. Presidential Democracy
+MEX;Mexico;128655589;Democracy;2. Presidential Democracy
+IDN;Indonesia;272931713;Democracy;2. Presidential Democracy
+KEN;Kenya;53521116;Democracy;2. Presidential Democracy
+LBR;Liberia;5032469;Democracy;2. Presidential Democracy
+MWI;Malawi;19024426;Democracy;2. Presidential Democracy
+MDV;Maldives;538558;Democracy;2. Presidential Democracy
+PAN;Panama;4300667;Democracy;2. Presidential Democracy
+FSM;Micronesia;114776;Democracy;2. Presidential Democracy
+PRY;Paraguay;7114524;Democracy;2. Presidential Democracy
+NGA;Nigeria;205052107;Democracy;2. Presidential Democracy
+PLW;Palau;18077;Democracy;2. Presidential Democracy
+PER;Peru;32876986;Democracy;2. Presidential Democracy
+SUR;Suriname;585561;Democracy;2. Presidential Democracy
+URY;Uruguay;3471314;Democracy;2. Presidential Democracy
+PHL;Philippines;109280343;Democracy;2. Presidential Democracy
+SLE;Sierra Leone;7942879;Democracy;2. Presidential Democracy
+KOR;South Korea;51260395;Democracy;2. Presidential Democracy
+LKA;Sri Lanka;21395196;Democracy;2. Presidential Democracy
+STP;Sao Tome & Principe;218308;Democracy;3. Semi-Presidential Democracy
+CHE;Switzerland;8641786;Democracy;2. Presidential Democracy
+TUR;Turkey;84153250;Democracy;2. Presidential Democracy
+USA;United States;330610570;Democracy;2. Presidential Democracy
+HND;Honduras;9871892;Dictatorship;5. Civilian Dictatorship
+NIC;Nicaragua;6608366;Dictatorship;5. Civilian Dictatorship
+ARM;Armenia;2962137;Democracy;3. Semi-Presidential Democracy
+AUT;Austria;8996022;Democracy;3. Semi-Presidential Democracy
+BGR;Bulgaria;6958627;Democracy;3. Semi-Presidential Democracy
+CPV;Cabo Verde;554750;Democracy;3. Semi-Presidential Democracy
+HRV;Croatia;4110214;Democracy;3. Semi-Presidential Democracy
+FIN;Finland;5539002;Democracy;3. Semi-Presidential Democracy
+FRA;France;65244628;Democracy;3. Semi-Presidential Democracy
+GEO;Georgia;3990681;Democracy;3. Semi-Presidential Democracy
+GNB;Guinea-Bissau;1958132;Democracy;3. Semi-Presidential Democracy
+ISL;Iceland;340795;Democracy;3. Semi-Presidential Democracy
+IRL;Ireland;4926480;Democracy;3. Semi-Presidential Democracy
+KGZ;Kyrgyzstan;6501804;Democracy;3. Semi-Presidential Democracy
+LTU;Lithuania;2729553;Democracy;3. Semi-Presidential Democracy
+MKD;Macao;647508;Democracy;3. Semi-Presidential Democracy
+MDG;Madagascar;27539106;Democracy;3. Semi-Presidential Democracy
+MLI;Mali;20125282;Democracy;3. Semi-Presidential Democracy
+MNG;Mongolia;3267320;Democracy;3. Semi-Presidential Democracy
+NER;Niger;24014064;Democracy;3. Semi-Presidential Democracy
+POL;Poland;37854825;Democracy;3. Semi-Presidential Democracy
+PRT;Portugal;10202571;Democracy;3. Semi-Presidential Democracy
+ROU;Romania;19262731;Democracy;3. Semi-Presidential Democracy
+VEN;Venezuela;28451828;Dictatorship;5. Civilian Dictatorship
+SEN;Senegal;16649599;Democracy;3. Semi-Presidential Democracy
+SRB;Serbia;8744288;Democracy;3. Semi-Presidential Democracy
+SVK;Slovakia;5459116;Democracy;3. Semi-Presidential Democracy
+TWN;Taiwan;23808164;Democracy;3. Semi-Presidential Democracy
+TLS;Timor-Leste;1313184;Democracy;3. Semi-Presidential Democracy
+UKR;Ukraine;43785122;Democracy;3. Semi-Presidential Democracy
+BHR;Bahrain;1688629;Dictatorship;4. Royal Dictatorship
+BRN;Brunei;436624;Dictatorship;4. Royal Dictatorship
+KHM;Cambodia;16671185;Dictatorship;4. Royal Dictatorship
+SWZ;Eswatini;1157707;Dictatorship;4. Royal Dictatorship
+JOR;Jordan;10182442;Dictatorship;4. Royal Dictatorship
+KWT;Kuwait;4257495;Dictatorship;4. Royal Dictatorship
+MAR;Morocco;36820713;Dictatorship;4. Royal Dictatorship
+OMN;Oman;5078933;Dictatorship;4. Royal Dictatorship
+QAT;Qatar;2870922;Dictatorship;4. Royal Dictatorship
+WSM;Samoa;198147;Dictatorship;4. Royal Dictatorship
+SAU;Saudi Arabia;34701377;Dictatorship;4. Royal Dictatorship
+TON;Tonga;105449;Dictatorship;4. Royal Dictatorship
+ARE;United Arab Emirates;9865845;Dictatorship;4. Royal Dictatorship
+AFG;Afghanistan;38742911;Dictatorship;5. Civilian Dictatorship
+DZA;Algeria;43685618;Dictatorship;5. Civilian Dictatorship
+AGO;Angola;32644783;Dictatorship;5. Civilian Dictatorship
+AZE;Azerbaijan;10120555;Dictatorship;5. Civilian Dictatorship
+BGD;Bangladesh;164354176;Dictatorship;5. Civilian Dictatorship
+BLR;Belarus;9449940;Dictatorship;5. Civilian Dictatorship
+BIH;Bosnia and Herzegovina;3284806;Dictatorship;5. Civilian Dictatorship
+CMR;Cameroon;26405174;Dictatorship;5. Civilian Dictatorship
+CHN;China;1438207241;Dictatorship;5. Civilian Dictatorship
+CIV;Côte d'Ivoire;26239250;Dictatorship;5. Civilian Dictatorship
+COD;Democratic Republic of the Congo;88972681;Dictatorship;5. Civilian Dictatorship
+DJI;Djibouti;985027;Dictatorship;5. Civilian Dictatorship
+ERI;Eritrea;3536285;Dictatorship;5. Civilian Dictatorship
+ETH;Ethiopia;114357494;Dictatorship;5. Civilian Dictatorship
+GAB;Gabon;2214593;Dictatorship;5. Civilian Dictatorship
+GUY;Guyana;785788;Dictatorship;5. Civilian Dictatorship
+HTI;Haiti;11373955;Dictatorship;5. Civilian Dictatorship
+IRN;Iran;83771587;Dictatorship;5. Civilian Dictatorship
+KAZ;Kazakhstan;18730568;Dictatorship;5. Civilian Dictatorship
+LSO;Lesotho;2138799;Dictatorship;5. Civilian Dictatorship
+MYS;Malaysia;32280610;Dictatorship;5. Civilian Dictatorship
+MNE;Montenegro;628050;Dictatorship;5. Civilian Dictatorship
+MOZ;Mozambique;31067362;Dictatorship;5. Civilian Dictatorship
+NAM;Namibia;2531290;Dictatorship;5. Civilian Dictatorship
+PRK;North Korea;25756088;Dictatorship;5. Civilian Dictatorship
+RUS;Russia;145922010;Dictatorship;5. Civilian Dictatorship
+SYC;Seychelles;98224;Dictatorship;5. Civilian Dictatorship
+SGP;Singapore;5840996;Dictatorship;5. Civilian Dictatorship
+SOM;Somalia;15798020;Dictatorship;5. Civilian Dictatorship
+ZAF;South Africa;59154802;Dictatorship;5. Civilian Dictatorship
+TJK;Tajikistan;9492342;Dictatorship;5. Civilian Dictatorship
+TGO;Togo;8237580;Dictatorship;5. Civilian Dictatorship
+TKM;Turkmenistan;6012850;Dictatorship;5. Civilian Dictatorship
+UGA;Uganda;45427637;Dictatorship;5. Civilian Dictatorship
+UZB;Uzbekistan;33368859;Dictatorship;5. Civilian Dictatorship
+VNM;Vietnam;97160127;Dictatorship;5. Civilian Dictatorship
+ZMB;Zambia;18273379;Dictatorship;5. Civilian Dictatorship
+ZWE;Zimbabwe;14818157;Dictatorship;5. Civilian Dictatorship
+BWA;Botswana;2341649;Dictatorship;6. Military Dictatorship
+BFA;Burkina Faso;20780371;Dictatorship;6. Military Dictatorship
+CAF;Central African Republic;4812256;Dictatorship;6. Military Dictatorship
+TCD;Chad;16324440;Dictatorship;6. Military Dictatorship
+COG;Congo;5489191;Dictatorship;6. Military Dictatorship
+CUB;Cuba;11327988;Dictatorship;6. Military Dictatorship
+EGY;Egypt;101930276;Dictatorship;6. Military Dictatorship
+GNQ;Equatorial Guinea;1392950;Dictatorship;6. Military Dictatorship
+FJI;Fiji;895128;Dictatorship;6. Military Dictatorship
+GMB;Gambia;2402083;Dictatorship;6. Military Dictatorship
+GIN;Guinea;13056478;Dictatorship;6. Military Dictatorship
+IRQ;Iraq;40031626;Dictatorship;6. Military Dictatorship
+LAO;Laos;7253719;Dictatorship;6. Military Dictatorship
+LBN;Lebanon;6831445;Dictatorship;6. Military Dictatorship
+LBY;Libya;6852010;Dictatorship;6. Military Dictatorship
+MRT;Martinique;375323;Dictatorship;6. Military Dictatorship
+MMR;Myanmar;54335948;Dictatorship;6. Military Dictatorship
+RWA;Rwanda;12883878;Dictatorship;6. Military Dictatorship
+SDN;Sudan;43632213;Dictatorship;6. Military Dictatorship
+SYR;Syria;17410293;Dictatorship;6. Military Dictatorship
+TZA;Tanzania;59368313;Dictatorship;6. Military Dictatorship
+TUN;Tunisia;11793319;Dictatorship;6. Military Dictatorship
+YEM;Yemen;29687214;Dictatorship;6. Military Dictatorship
