@@ -1,16 +1,15 @@
 # Covid-analysis
-Um estudo estatístico relacionando métricas sociopolíticas e dados de vacinação contra a Covid-19 ao redor do mundo.
+Um estudo estatÃ­stico relacionando mÃ©tricas sociopolÃ­ticas e dados de vacinaÃ§Ã£o contra a Covid-19 ao redor do mundo.
 
 # Sobre o projeto
-Como dito no subtítulo, este repositório tem o intuito de documentar o estudo estatístico realizado a fim de analisar métricas sociopolíticas e suas relações com índice de vacinação contra a covid-19 ao redor do mundo. O estudo foi implementado em python e as fontes das bases de dados estão descritas no notebook "Vacinacao-Covid.ipynb".
+Como dito no subtÃ­tulo, este repositÃ³rio tem o intuito de documentar o estudo estatÃ­stico realizado a fim de analisar mÃ©tricas sociopolÃ­ticas e suas relaÃ§Ãµes com Ã­ndice de vacinaÃ§Ã£o contra a covid-19 ao redor do mundo. O estudo foi implementado em python e as fontes das bases de dados estÃ£o descritas no notebook "Vacinacao-Covid.ipynb".
 
 # Resultados
-Todos os resultados do estudo estão no notebook "Vacinacao-Covid.ipynb", um vídeo também foi gravado descrevendo os resultados e pode ser acessado através deste [link](https://www.youtube.com/watch?v=HMkyZGNmSRE).
+Todos os resultados do estudo estÃ£o no notebook "Vacinacao-Covid.ipynb", um vÃ­deo tambÃ©m foi gravado descrevendo os resultados e pode ser acessado atravÃ©s deste [link](https://www.youtube.com/watch?v=HMkyZGNmSRE).
 
-# Comentários
-Foi interessante realizar o estudo e verificar que algumas métricas sociopolíticas são refletidas no índice de vacinação contra a covid-19 e além dos resultados, foi uma ótima primeira experiência com um projeto simples de ciência de dados e estatística.
+# ComentÃ¡rios
+Foi interessante realizar o estudo e verificar que algumas mÃ©tricas sociopolÃ­ticas sÃ£o refletidas no Ã­ndice de vacinaÃ§Ã£o contra a covid-19 e alÃ©m dos resultados, foi uma Ã³tima primeira experiÃªncia com um projeto simples de ciÃªncia de dados e estatÃ­stica.
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/73205375?v=4" width=115><br><sub>João Pedro Fernandes Silva</sub>](https://github.com/JoaoP-Silva)
-| [<img src="https://avatars.githubusercontent.com/u/49126085?v=4" width=115><br><sub>Lucas Emanuel</sub>](https://github.com/ealucas)
+| [<img src="https://avatars.githubusercontent.com/u/73205375?v=4" width=115><br><sub>JoÃ£o Pedro Fernandes Silva</sub>](https://github.com/JoaoP-Silva) |  [<img src="https://avatars.githubusercontent.com/u/49126085?v=4" width=115><br><sub>Lucas Emanuel</sub>](https://github.com/ealucas) |
