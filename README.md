@@ -12,4 +12,5 @@ Foi interessante realizar o estudo e verificar que algumas métricas sociopolít
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/73205375?v=4" width=115><br><sub>João Pedro Fernandes Silva</sub>](https://github.com/JoaoP-Silva) |  [<img src="https://avatars.githubusercontent.com/u/49126085?v=4" width=115><br><sub>Lucas Emanuel</sub>](https://github.com/ealucas) |
+- [<img src="https://avatars.githubusercontent.com/u/73205375?v=4" width=115><br><sub>João Pedro Fernandes Silva</sub>](https://github.com/JoaoP-Silva)
+- [<img src="https://avatars.githubusercontent.com/u/49126085?v=4" width=115><br><sub>Lucas Emanuel</sub>](https://github.com/ealucas)
